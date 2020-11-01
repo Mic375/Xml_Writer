@@ -37,3 +37,13 @@ C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_w
 C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.exe
 C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.pdb
 C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache
+C:\Games\Git.Hub\Xml_Writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Games\Git.Hub\Xml_Writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Games\Git.Hub\Xml_Writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.cache
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.csproj.CoreCompileInputs.cache
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Games\Git.Hub\Xml_Writer\xml_writer\obj\Debug\xml_writer.pdb
