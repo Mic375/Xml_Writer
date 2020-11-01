@@ -31,8 +31,9 @@ namespace xml_writer
             {
                 int n = dataGridView1.Rows.Add();
                 dataGridView1.Rows[n].Cells[0].Value = textBox1.Text;
-                dataGridView1.Rows[n].Cells[1].Value = numericUpDown1.Value;
-                dataGridView1.Rows[n].Cells[2].Value = comboBox1.Text;
+                dataGridView1.Rows[n].Cells[1].Value = textBox2.Text;
+                dataGridView1.Rows[n].Cells[2].Value = textBox3.Text;
+                dataGridView1.Rows[n].Cells[3].Value = textBox4.Text;
             }
         }
 
@@ -48,17 +49,19 @@ namespace xml_writer
                     DataSet ds = new DataSet(); // создаем пока что пустой кэш данных
                     DataTable dt = new DataTable(); // создаем пока что пустую таблицу данных
                     dt.TableName = "Employee"; // название таблицы
-                    dt.Columns.Add("Name"); // название колонок
-                    dt.Columns.Add("Age");
-                    dt.Columns.Add("Programmer");
+                    dt.Columns.Add("Имя"); // название колонок
+                    dt.Columns.Add("Фамилия");
+                    dt.Columns.Add("Отчество");
+                    dt.Columns.Add("Навыки");
                     ds.Tables.Add(dt); //в ds создается таблица, с названием и колонками, созданными выше
 
                     foreach (DataGridViewRow r in dataGridView1.Rows) // пока в dataGridView1 есть строки
                     {
                         DataRow row = ds.Tables["Employee"].NewRow(); // создаем новую строку в таблице, занесенной в ds
-                        row["Name"] = r.Cells[0].Value;  //в столбец этой строки заносим данные из первого столбца dataGridView1
-                        row["Age"] = r.Cells[1].Value; // то же самое со вторыми столбцами
-                        row["Programmer"] = r.Cells[2].Value; //то же самое с третьими столбцами
+                        row["Имя"] = r.Cells[0].Value;  //в столбец этой строки заносим данные из первого столбца dataGridView1
+                        row["Фамилия"] = r.Cells[1].Value; // то же самое со вторыми столбцами
+                        row["Отчество"] = r.Cells[2].Value; //то же самое с третьими столбцами
+                        row["Навыки"] = r.Cells[3].Value;
                         ds.Tables["Employee"].Rows.Add(row); //добавление всей этой строки в таблицу ds.
                     }
                     ds.WriteXml(file);
@@ -99,9 +102,12 @@ namespace xml_writer
                         foreach (DataRow item in ds.Tables["Employee"].Rows)
                         {
                             int n = dataGridView1.Rows.Add(); // добавляем новую сроку в dataGridView1
-                            dataGridView1.Rows[n].Cells[0].Value = item["Name"]; // заносим в первый столбец созданной строки данные из первого столбца таблицы ds.
-                            dataGridView1.Rows[n].Cells[1].Value = item["Age"]; // то же самое со вторым столбцом
-                            dataGridView1.Rows[n].Cells[2].Value = item["Programmer"]; // то же самое с третьим столбцом
+                            dataGridView1.Rows[n].Cells[0].Value = item["Имя"]; // заносим в первый столбец созданной строки данные из первого столбца таблицы ds.
+                            dataGridView1.Rows[n].Cells[1].Value = item["фамилия"]; // то же самое со вторым столбцом
+                            dataGridView1.Rows[n].Cells[2].Value = item["Отчество"]; // то же самое с третьим столбцом
+                            dataGridView1.Rows[n].Cells[3].Value = item["Навыки"];
+                            
+
                         }
                     }
                     catch
@@ -120,10 +126,17 @@ namespace xml_writer
 
         private void dataGridView1_MouseClick(object sender, MouseEventArgs e) // выбор нужной строки для редактирования
         {
-            textBox1.Text = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
-            int n = Convert.ToInt32(dataGridView1.SelectedRows[0].Cells[1].Value);
-            numericUpDown1.Value = n;
-            comboBox1.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+            try
+            {
+                textBox1.Text = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
+                textBox2.Text = dataGridView1.SelectedRows[0].Cells[1].Value.ToString();
+                textBox3.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+                textBox4.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Сначала добавьте столбцы или загрузите свой XML файл", "Ошибка");
+            }
         }
 
         private void button2_Click(object sender, EventArgs e) //редактирование
@@ -132,8 +145,9 @@ namespace xml_writer
             {
                 int n = dataGridView1.SelectedRows[0].Index;
                 dataGridView1.Rows[n].Cells[0].Value = textBox1.Text;
-                dataGridView1.Rows[n].Cells[1].Value = numericUpDown1.Value;
-                dataGridView1.Rows[n].Cells[2].Value = comboBox1.Text;
+                dataGridView1.Rows[n].Cells[1].Value = textBox2.Text;
+                dataGridView1.Rows[n].Cells[2].Value = textBox3.Text;
+                dataGridView1.Rows[n].Cells[3].Value = textBox4.Text;
             }
             else
             {

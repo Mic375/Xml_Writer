@@ -1,22 +1,8 @@
 <NewDataSet>
   <Employee>
-    <Name>Миша</Name>
-    <Age>18</Age>
-    <Programmer>True</Programmer>
-  </Employee>
-  <Employee>
-    <Name>Миша</Name>
-    <Age>18</Age>
-    <Programmer>True</Programmer>
-  </Employee>
-  <Employee>
-    <Name>Миша</Name>
-    <Age>18</Age>
-    <Programmer>True</Programmer>
-  </Employee>
-  <Employee>
-    <Name>Миша</Name>
-    <Age>18</Age>
-    <Programmer>True</Programmer>
+    <Имя>Миша</Имя>
+    <Фамилия>Сараев</Фамилия>
+    <Отчество>Александрович</Отчество>
+    <Навыки>Быстрие правки</Навыки>
   </Employee>
 </NewDataSet>
