@@ -1,0 +1,39 @@
+c:\users\юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.cache
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.CoreCompileInputs.cache
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\kv\OneDrive\Предметы\Прикладное программирование\Практические работы\Пр.р. 7,8 XML\Запись в XML\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Admin\Desktop\ДЗ\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Admin\Desktop\ДЗ\xml_writer (Edit by MicS)\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache

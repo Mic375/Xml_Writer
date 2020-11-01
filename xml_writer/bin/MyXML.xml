@@ -1,0 +1,12 @@
+<NewDataSet>
+  <Employee>
+    <Name>Миша</Name>
+    <Age>18</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+  <Employee>
+    <Name>Миша</Name>
+    <Age>18</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+</NewDataSet>
